@@ -213,10 +213,10 @@ For quicker demos, set `CLAMP_DELAY_MS = 20000UL` and `NURSE_ESCALATE_MS = 15000
 
 ---
 
-## 📄 License
 
-Add your license here (e.g. MIT).
 
 ## 👥 Authors
 
-Add your team members' names here.
+Mahasri Murugesan 
+Sruthica M S
+Mahitha S
